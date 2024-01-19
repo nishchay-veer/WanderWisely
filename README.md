@@ -12,7 +12,7 @@ A ReactJS TripAdvisor Web App made with the RapidAPI's TravelAdvisor API and Goo
   </a>
 </p>
 
-### ✨ [Live Preview]()
+### ✨ [Live Preview](https://wander-wisely.vercel.app/)
 
 ## Install
 Run the Command to Install all dependencies.
