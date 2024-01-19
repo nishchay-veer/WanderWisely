@@ -9,7 +9,7 @@ A ReactJS TripAdvisor Web App made with the RapidAPI's TravelAdvisor API and Goo
   </a>
 </p>
 
-
+### ✨ [Live Preview]()
 
 ## Install
 Run the Command to Install all dependencies.
@@ -45,6 +45,7 @@ Your project should start running on `http://localhost:3000`
 
 * Twitter: [@nishchay_veer](https://twitter.com/nishchay_veer)
 * LinkedIn: [@nishchay-veer](https://linkedin.com/in/nishchay-veer)
+
 
 ## Show your support
 
