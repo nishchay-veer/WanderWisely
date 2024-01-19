@@ -4,7 +4,7 @@ A ReactJS TripAdvisor Web App made with the RapidAPI's TravelAdvisor API and Goo
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/babblebey" target="_blank">
+  <a href="https://twitter.com/nishchay_veer" target="_blank">
     <img alt="Twitter: nishchay_veer" src="https://img.shields.io/twitter/follow/nishchay_veer.svg?style=social" />
   </a>
 </p>
@@ -44,7 +44,7 @@ Your project should start running on `http://localhost:3000`
 👤 **Nishchay Veer**
 
 * Twitter: [@nishchay_veer](https://twitter.com/nishchay_veer)
-* LinkedIn: [@babblebey](https://linkedin.com/in/nishchay-veer)
+* LinkedIn: [@nishchay-veer](https://linkedin.com/in/nishchay-veer)
 
 ## Show your support
 
