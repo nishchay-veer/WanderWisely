@@ -1,6 +1,9 @@
 # Welcome to WanderWisely 👋
 
 A ReactJS TripAdvisor Web App made with the RapidAPI's TravelAdvisor API and Google Maps API
+![Screenshot from 2024-01-19 15-34-27](https://github.com/nishchay-veer/WanderWisely/assets/99465982/137fe3fc-dea7-42aa-bd87-87ead118696d)
+
+
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
